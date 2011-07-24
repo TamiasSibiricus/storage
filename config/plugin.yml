@@ -1,0 +1,11 @@
+name: Universal Storage
+description: Local and Amazon S3 media storages plugin
+
+author: Denys Kyselov
+authorEmail: denys.kyselov@gmail.com
+authorUrl: https://github.com/TamiasSibiricus
+
+dependencies:
+  plugins:
+    - acl
+    - extensions
